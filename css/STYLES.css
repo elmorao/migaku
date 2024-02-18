@@ -1,0 +1,138 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+*{
+margin: 0;
+padding: 0;
+}
+
+body{
+	font-family: 'Barlow Condensed', sans-serif;
+	background-color:#232323;
+	color: #E5E5E5;
+}
+#header p { display:inline; }
+hr {
+  border-color: #E5E5E5;
+}
+.a {
+	font-size: 123px;
+	color:#434BE7;
+	font-family: 'Permanent Marker', cursive;
+}
+.c {
+ 	border-radius: 30px !important;
+	padding-bottom: 10px;
+}
+.s{
+	padding-top: 50px; 
+}
+.b{
+	text-align: center;
+	color:#434BE7;
+	padding-top: 120px;
+}
+.textos {
+	font-size: 23px;
+	text-align: justify;
+}
+
+.noc {
+	text-align: right;
+	color:#434BE7;
+	font-size: 15px;
+	font-family: 'Permanent Marker', cursive;
+}
+.xd {
+	padding-bottom: 20px;
+}
+.d {
+	font-size: 18px;
+
+}
+.f {
+	font-size: 83px;
+	font-family: 'Permanent Marker', cursive;
+	text-align: center;
+	color:#434BE7;
+}
+.z {
+	font-size: 153px;
+	display: flex;
+  	align-items: center;
+	justify-content:flex-end;
+	color:#434BE7;
+	font-family: 'Permanent Marker', cursive;
+}
+.texto {
+	font-size: 20px;
+	text-align: justify;
+}
+.encabezado {
+	background-color: #000000;
+	border-bottom: 0.5px solid #E5E5E5;
+}
+.alo {
+	
+}
+
+.xf{
+	background-color: gray;
+}
+.rx {
+	padding-top: 140px;
+}
+.alos {
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 20px;
+	padding-bottom: 40px;
+}
+.redessig{
+	padding-left: 30px;
+	padding-right: 220px;
+}
+.redes{
+	padding-top: 10px;
+	text-align: right;
+}
+hr{
+	background-color: black;
+}
+.logo{
+	text-align: center;
+	padding-bottom: 50px;
+	padding-top: 50px;
+}
+.botones {
+    color:#434BE7;
+    transition-duration: 0.4s;
+    cursor: pointer;
+	text-align: center;
+	font-size: 22px;
+}
+.lupaimg{
+	cursor: pointer;
+}
+.lupa{
+	text-align: left;
+}
+.botones:hover {
+	background-color: #434BE7;
+	color:#000000;
+}
+
+.last{
+	padding-bottom: 100px;
+}
+.down{
+	background-color: black;
+	padding-bottom: 50px;
+	padding-top: 30px;
+	color: #393838;
+}
+.noticias{
+	
+}
